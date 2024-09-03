@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.Navbar {
+  background-color: orange;
+  padding: 0;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.Navbar *{
+  margin: 5px;
+}
+
+.logo {
+  margin-left: 15px;
+}
+
+.page_links {
+  display: flex;
+}
